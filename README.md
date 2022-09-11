@@ -34,7 +34,11 @@ Create new account on testnet using **nuovo_account.py** script and save the **p
 REACH_CONNECTOR_MODE=ALGO-live ./reach run
 ```
 
+## Notes:
 
+If you want to test this project you have to use the following passphase for the Company wallet: "squeeze social impulse disease pencil gloom expect escape jewel panda disease cry spin flame aspect kiss lizard parade fat salt dial erosion thought able strategy" .
+
+The asset id to opt-in is: 78065319.
 
 
 ## Roadmap
