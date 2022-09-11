@@ -45,9 +45,7 @@ The asset id to opt-in is: 78065319.
 Tokenomics & new web application
 
 
-## License
-
-MIT License
+## MIT License
 
 Copyright (c) 2022 Michele Bonini
 
